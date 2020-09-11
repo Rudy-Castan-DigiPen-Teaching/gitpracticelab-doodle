@@ -1,2 +1,2 @@
-Member 1: Hyunjin Kim
-Member 2: Sehoon Kim
+Member A: Hyunjin Kim
+Member B: Sehoon Kim
